@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(255, 254, 251);
+    font-family:'Montserrat', sans-serif;
+    
+}
+.header_div {
+    background-color: rgb(221, 255, 255);
+    color: darkslategrey;
+    
+    
+
+}
+.header_div img {
+    width: 100px;
+}
+.header_div h2 {
+    font-size: 50px;} 
+.text_images_result {
+    box-shadow: 5px 5px 19px rgb(8, 8, 8);
+    background-color: white;
+    margin-right: 500px;
+    margin-top: 201px;
+    margin-left: 500px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    }
+    #pics {
+        margin-left: 40px;
+    }
+    #pics2 {
+        width: 200px;
+        height: 200px;
+    }
+    #pics3 {
+        width: 200px;
+        height: 200px;
+    }
+
+#pics4 {
+    width: 200px;
+    height: 200px;
+}
+#pics5 {
+    width: 200px;
+    height: 200px;
+}
+h5 b{
+    color: blue;
+}
+h5 span {
+    color: red;
+}
+#result {
+    border: 2px dashed red;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 30px rgb(248, 133, 156);
+
+}
